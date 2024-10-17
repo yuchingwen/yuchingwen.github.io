@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"惡婆婆_HTML5 Canvas_atlas_1", frames: [[0,0,637,749],[1214,536,493,435],[1214,0,528,534],[639,0,573,670],[639,672,483,387]]}
+		{name:"萼婆婆_HTML5 Canvas_atlas_1", frames: [[0,0,637,749],[1214,536,493,435],[1214,0,528,534],[639,0,573,670],[639,672,483,387]]}
 ];
 
 
@@ -28,35 +28,35 @@ lib.ssMetadata = [
 
 
 (lib.圖層1 = function() {
-	this.initialize(ss["惡婆婆_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層2 = function() {
-	this.initialize(ss["惡婆婆_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.萼婆婆01 = function() {
-	this.initialize(ss["惡婆婆_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.萼婆婆02 = function() {
-	this.initialize(ss["惡婆婆_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.萼婆婆03 = function() {
-	this.initialize(ss["惡婆婆_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -238,7 +238,7 @@ if (reversed == null) { reversed = false; }
 
 
 // stage content:
-(lib.惡婆婆_HTML5Canvas = function(mode,startPosition,loop,reversed) {
+(lib.萼婆婆_HTML5Canvas = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -425,7 +425,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/惡婆婆_HTML5 Canvas_atlas_1.png?1729153238479", id:"惡婆婆_HTML5 Canvas_atlas_1"}
+		{src:"images/萼婆婆_HTML5 Canvas_atlas_1.png?1729180143881", id:"萼婆婆_HTML5 Canvas_atlas_1"}
 	],
 	preloads: []
 };
